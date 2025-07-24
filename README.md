@@ -44,7 +44,7 @@ We collected <b>33 survey responses</b> across different age groups:
 
 ## 📈 User Engagement Dashboard
 
-![User Engagement Dashboard](Screenshots/Escape_Arts_user_engagement.jpg)  
+![User Engagement Dashboard](Screenshots/Escape_Arts_User_engagement.jpg)  
 <sub>Figure: Preferred contribution methods, comfort factors, and willingness to engage with the archive.</sub>
 
 ## 🔄 User & Admin Workflow
